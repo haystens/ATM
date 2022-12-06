@@ -8,4 +8,7 @@ button {
 select {
   display: block;
   margin-bottom: 20px;
-}
+  background-color:lightskyblue;
+  font-style: italic;
+
+
